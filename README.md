@@ -12,3 +12,8 @@ Codigo projeto regras casa popular.
 
 ## Observação
 Foram feitos testes unitários sem complexidades de framework. 
+
+
+![Lista Ordenada](https://uploaddeimagens.com.br/imagens/6IwoJwk)
+
+![Teste unitario](https://uploaddeimagens.com.br/imagens/pdFxrU8)
